@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Config.Net" Version="4.15.0" />
+      <PackageReference Include="Config.Net.Json" Version="4.15.0" />
+      <PackageReference Include="FluentScheduler" Version="5.5.1" />
+      <PackageReference Include="NLog" Version="4.7.5" />
+      <PackageReference Include="RestSharp" Version="106.11.8-alpha.0.7" />
+      <PackageReference Include="SteamKit2" Version="2.4.0-Alpha.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\DepotDownloader\DepotDownloader.csproj" />
+      <ProjectReference Include="..\Il2CppDumper\Il2CppDumper.csproj" />
+    </ItemGroup>
+
+</Project>

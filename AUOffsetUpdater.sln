@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AUOffsetUpdater", "AUOffsetUpdater\AUOffsetUpdater.csproj", "{E3DF4CD0-6BEB-43FF-AFE0-5C8996DDE1E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepotDownloader", "DepotDownloader\DepotDownloader.csproj", "{79D7E20D-01A5-419D-B666-AA98416FAC02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Il2CppDumper", "Il2CppDumper\Il2CppDumper.csproj", "{3889243F-9E38-4421-8462-DE0D04FE1EEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3DF4CD0-6BEB-43FF-AFE0-5C8996DDE1E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3DF4CD0-6BEB-43FF-AFE0-5C8996DDE1E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3DF4CD0-6BEB-43FF-AFE0-5C8996DDE1E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3DF4CD0-6BEB-43FF-AFE0-5C8996DDE1E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79D7E20D-01A5-419D-B666-AA98416FAC02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D7E20D-01A5-419D-B666-AA98416FAC02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D7E20D-01A5-419D-B666-AA98416FAC02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D7E20D-01A5-419D-B666-AA98416FAC02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3889243F-9E38-4421-8462-DE0D04FE1EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3889243F-9E38-4421-8462-DE0D04FE1EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3889243F-9E38-4421-8462-DE0D04FE1EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3889243F-9E38-4421-8462-DE0D04FE1EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
